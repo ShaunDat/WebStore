@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="../Demowebsite(1)/Vendors/css/grid.css">
     <link rel="stylesheet" type="text/css" href="/Vendors/css/style.css">
 	  <link rel="stylesheet" type="text/css" href="/Resources/bootstrap-5.0.0-beta3-dist/css/bootstrap.min.css">
-
+    <link rel="stylesheet" href="/index.js">
     <style>
         *{
 	margin: 0;
@@ -76,13 +76,13 @@
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link" href="#" id="navbarDropdown">
-                                Dropdown
+                            Items
                             </a>
                             <div class="dropdown-content">
-                                <a class="dropdown-item" href="#">Action</a>
-                                <a class="dropdown-item" href="#">Another action</a>
-                                <div class="dropdown-divider"></div>
-                                <a class="dropdown-item" href="#">Something else here</a>
+                                <a class="dropdown-item" href="#">Model</a>
+                                <a class="dropdown-item" href="#">Posters</a>
+                                <a class="dropdown-item" href="#">Keychains</a>
+                                <a class="dropdown-item" href="#">Stuffed animals</a>
                             </div>
                         </li>
                     </ul>
