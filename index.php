@@ -97,6 +97,11 @@
           </nav>
     </header>
     <section>
+      <json_decode>
+
+      <console class="log"> heroworld</console>
+      </json_decode>
+
         <div id="carouselExampleIndicators" class="carousel slide mt-1" data-ride="carousel">
             <ol class="carousel-indicators">
               <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
