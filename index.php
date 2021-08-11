@@ -101,13 +101,7 @@
 
       <console class="log"> heroworld</console>
       <console class="var"> {Pool, Client} = require('pg')</console>
-      <console class="var">client = new Client({
-host: 'ec2-54-196-65-186.compute-1.amazonaws.com',
-database: 'dcursvpqp35c4j',
-user: 'uyunzorfjbwixv',
-password: '1eca7dafc10d64dd1430227c744f91a3b4c868a08b16497968d1cb78cd17c315',
-port: 5432,
-})</console>
+
       </json_decode>
 
         <div id="carouselExampleIndicators" class="carousel slide mt-1" data-ride="carousel">

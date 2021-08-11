@@ -17,4 +17,5 @@ con.connect(function(err) {
       console.log("Table created");
     });
   });
+  connect,index.php;
   
